@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm TARVONE KOOME</h1>
-<h3 align="center">A Zealous Software Developer from Kenya</h3>
+<h1 align="center">
+  <samp>&gtHey There! 👋, I am TARVONE KOOME</samp>
+</h1>
+<h3 align="center">
+  <samp>「A Zealous Software Developer from Kenya」</samp>
+</h3>
 
 <br>
 ![](construction.gif)
@@ -11,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/xx_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/xx_tirva?logo=twitter&style=for-the-badge" alt="xx_tirva" /></a> </p>
 
-- 🔭 I’m currently working on **My Portifolio**
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />🔭 I’m currently working on **My Portifolio**
 
 - 🌱 I’m currently learning **Django, Flutter, React**
 
@@ -37,4 +41,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=travcort&show_icons=true&locale=en" alt="travcort" /></p>
 
 <img src="https://raw.githubusercontent.com/Travcort/Travcort/output/snake.svg" alt="Snake animation" />
+<br>
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
 
