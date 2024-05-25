@@ -15,17 +15,17 @@
 
 <p align="left"> <a href="https://twitter.com/xx_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/xx_tirva?logo=twitter&style=for-the-badge" alt="xx_tirva" /></a> </p>
 
-- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="25" /> I’m currently working on **My Portifolio** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on **My Portifolio** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
 
-- 🌱 I’m currently learning **Django, Flutter, React**
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/hyperkitty.gif" width="25" /> I’m currently learning **Django, Flutter, React**
 
 - 👯 I’m looking to collaborate on **Everything you have in mind**
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **tarvkoome@gmail.com**
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/letterbox.gif" width="25" /> How to reach me **tarvkoome@gmail.com**
 
-- ⚡ Fun fact **All words that start with 'Q' are followed by 'u'**
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/lightning.gif" width="15" height="20" /> Fun fact **All words that start with 'Q' are followed by 'u'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
