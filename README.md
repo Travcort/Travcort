@@ -2,7 +2,7 @@
 <h3 align="center">A Zealous Software Developer from Kenya</h3>
 
 <br>
-![](under-construction.gif)
+![](construction.gif)
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=travcort&label=Profile%20views&color=0e75b6&style=flat" alt="travcort" /> </p>
