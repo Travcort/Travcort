@@ -32,6 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=travcort&show_icons=true&locale=en" alt="travcort" /></p>
 
-#SNAKE ANIMATION
 <img src="https://raw.githubusercontent.com/Travcort/Travcort/output/snake.svg" alt="Snake animation" />
-###SNAKE ANIMATION
+
