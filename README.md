@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TARVONE KOOME</h1>
-<h3 align="center">A passionate full stack developer from Kenya</h3>
+<h3 align="center">A Zealous Software Developer from Kenya</h3>
 
 <br>
 ![](under-construction.gif)
