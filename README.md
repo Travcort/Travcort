@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/xx_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/xx_tirva?logo=twitter&style=for-the-badge" alt="xx_tirva" /></a> </p>
 
-- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on **My Portifolio**(https://tarv.vercel.app/) <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on <a href="https://tarv.vercel.app" target="blank">**My Portifolio** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
 
 - <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/hyperkitty.gif" width="25" /> I’m currently learning **Django & Flutter**
 
