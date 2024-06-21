@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travcort" alt="travcort" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xx_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/xx_tirva?logo=twitter&style=for-the-badge" alt="xx_tirva" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xxx_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/xxx_tirva?logo=twitter&style=for-the-badge" alt="xxx_tirva" /></a> </p>
 
 - <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on <a href="https://tarv.vercel.app" target="blank">**My Portifolio** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xx_tirva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xx_tirva" height="30" width="40" /></a>
+<a href="https://twitter.com/xxx_tirva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xxx_tirva" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarvone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarvone" height="30" width="40" /></a>
 </p>
 
