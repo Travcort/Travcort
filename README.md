@@ -25,7 +25,7 @@
 
 - <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/letterbox.gif" width="25" /> How to reach me **tarvkoome@gmail.com**
 
-- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/lightning.gif" width="15" height="20" /> Fun fact **All words that start with 'Q' are followed by 'u'**
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/lightning.gif" width="15" height="20" /> Fun fact **All words that start with 'Q' are followed by 'u'. So a 'Q' word not followed by 'u' is probably 'Questioning' its existence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
