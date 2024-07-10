@@ -17,7 +17,7 @@
 
 - <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on <a href="https://tarv.vercel.app" target="blank">**My Portifolio** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
 
-- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/hyperkitty.gif" width="25" /> I’m currently learning **Django & Flutter**
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/hyperkitty.gif" width="25" /> I’m currently learning **Django & React**
 
 - 👯 I’m looking to collaborate on **Everything you have in mind**
 
