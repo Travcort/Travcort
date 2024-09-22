@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=travcort&label=Profile%20views&color=0e75b6&style=flat" alt="travcort" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=travcort&theme=monokai&rank=-C" alt="travcort" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/xxx_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/xxx_tirva?logo=twitter&style=for-the-badge" alt="xxx_tirva" /></a> </p>
 
 - <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on <a href="https://tarv.vercel.app" target="blank">**My Portfolio** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
