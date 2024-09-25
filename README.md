@@ -1,5 +1,5 @@
 <h1 align="center">
-  <samp>&gtHey There! 👋, I am TARVONE KOOME</samp>
+  <samp>&gtHey There! I am TARVONE KOOME</samp>
 </h1>
 <h3 align="center">
   <samp>「A Zealous Software Developer from Kenya」</samp>
