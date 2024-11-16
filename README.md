@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/x_tirva" target="blank"><img src="https://img.shields.io/twitter/follow/x_tirva?logo=twitter&style=for-the-badge" alt="x_tirva" /></a> </p>
 
-- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on <a href="https://github.com/Travcort/Blog" target="blank">**Bloggy** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
+- <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/Developer.gif" width="30" /> I’m currently working on <a href="https://github.com/Travcort/Blog" target="blank">**Blogzzly** <img align="right" alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/dev-working_rounded.gif" width="40%"/>
 
 - <img alt="GIF" src="https://github.com/Travcort/Travcort/blob/main/hyperkitty.gif" width="25" /> I’m currently learning **Django & React**
 
